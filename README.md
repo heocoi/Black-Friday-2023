@@ -317,6 +317,8 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### 💸 (25% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
 
+#### 💸 (75% OFF) [gleam.so](https://gleam.so/) - Simple tool to create beautiful OpenGraph (OG) images, Social Cards in seconds. No design skills needed.
+
 -------------
 
 ## Games
